@@ -1,0 +1,6 @@
+name: JumpPlugin
+main: de.thiomains.jumpandrun.Main
+version: 1.0.0
+api-version: 1.21
+commands:
+  jump:
